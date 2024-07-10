@@ -1,0 +1,14 @@
+[
+   {
+      "labels" : {
+         "__metrics_path__" : "/debug/metrics/prometheus",
+         "__scheme__" : "http",
+         "__scrape_interval__" : "60s",
+         "__scrape_timeout__" : "10s",
+         "service" : "polygon-bor"
+      },
+      "targets" : [
+         "h58.everstake.one:7071"
+      ]
+   },
+]
